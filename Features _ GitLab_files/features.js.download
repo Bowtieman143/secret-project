@@ -1,0 +1,1 @@
+!function(){var n=$(".video-button"),o=$(".video-container");n.on("click",function(e){e.preventDefault(),n.hide(),o.show()})}();
